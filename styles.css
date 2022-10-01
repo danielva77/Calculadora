@@ -2,7 +2,10 @@ main{
     font-family: "Roboto mono", monospace;
     position: relative;
 }
-
+footer{
+    font-family: "Roboto mono", monospace;
+    text-align: center;
+}
 .circle{
     border-radius: 50%;
     width: 120px;
